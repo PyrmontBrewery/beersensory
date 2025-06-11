@@ -1,0 +1,206 @@
+{
+  "beer_tastes": {
+    "categories": {
+      "chemical": {
+        "subcategories": {
+          "metallic": {
+            "descriptors": ["tinny", "coins", "rusty-water", "iron"],
+            "notes": "Aroma and flavour reminiscent of metal, such as iron or copper coins, often perceived as blood-like, rusty, or tinny. Can impart a harsh, lingering aftertaste and is generally considered an off-flavour. Example: the taste of blood from a bitten lip or the smell of a metal spoon."
+          },
+          "alkaline": {
+            "descriptors": ["soapy", "caustic", "lye"],
+            "notes": "Evoke soap, cleaning agents, or caustic substances. Presents as a slick, soapy mouthfeel with a chemical, bitter aftertaste, and can mask other beer flavours. Example: the taste of soap residue left on a glass."
+          },
+          "powdery": {
+            "descriptors": ["chalky", "particulate", "dusty"],
+            "notes": "Mouthfeel reminiscent of dust, chalk, or flour. Can create a dry, gritty sensation on the palate and may dull the perception of other aromas and flavours. Example: the sensation of eating a dry cracker or licking a piece of chalk."
+          }
+        }
+      },
+      "aromatic_fragrant_fruity_floral": {
+        "subcategories": {
+          "floral": {
+            "descriptors": ["perfume", "roses", "2-phenylethanol", "geranium"],
+            "notes": "Reminiscent of fresh flowers, such as roses or geraniums, often perceived as perfumed, sweet, and delicate. Adds complexity and elegance to the beer's bouquet. Example: the aroma of Turkish Delight or rosewater."
+          },
+          "acetaldehyde": {
+            "descriptors": ["bruised-apples", "fresh-cut-green-apples", "raw-apple-skin"],
+            "notes": "Aroma and flavour of green apples or raw apple skin, sometimes with a sharp, slightly pungent edge. Indicates young beer or incomplete fermentation. Example: the smell of Granny Smith apples."
+          },
+          "alcoholic": {
+            "descriptors": ["lacquer", "can-liner", "plastic", "solvent-like"],
+            "notes": "General effect of ethanol and higher alcohols, often perceived as warming or burning. Can contribute to a beer's body and mouthfeel. Example: the warming sensation of vodka or whisky."
+          },
+          "estery": {
+            "descriptors": ["isoamyl-acetate", "banana", "ethyl-hexanoate", "fruity", "apple", "ethyl-acetate"],
+            "notes": "Esters produce fruity and floral aromas and flavours, adding complexity and a pleasant bouquet to the beer. These notes are common in Belgian-style ales and some IPAs. Example: the banana aroma in Allen's Banana lollies or pear drops."
+          },
+          "fruity": {
+            "descriptors": ["pear", "banana", "melon", "apple", "citrus", "strawberry", "raspberry", "blackcurrant", "berry"],
+            "notes": "Specific fruit characteristics, which can range from citrusy and tart to sweet and tropical. Adds a refreshing and vibrant quality to the beer. Example: the aroma of fresh orange zest or the taste of a ripe mango."
+          },
+          "hoppy": {
+            "descriptors": ["hop-oil", "dry-hop", "kettle-hop", "fresh-hop-aroma"],
+            "notes": "Aroma and flavour derived from hops, which can be floral, fruity, or piney. Contributes to the beer's bitterness, aroma, and overall balance. Example: the smell of Cascade hops or the aroma of Little Creatures Pale Ale."
+          }
+        }
+      },
+      "resinous_nutty_green_grassy": {
+        "subcategories": {
+          "nutty": {
+            "descriptors": ["beans", "sherry-like", "almond", "coconut", "walnut"],
+            "notes": "Nut-derived flavors, which can add a creamy, rich, and slightly sweet character to the beer. Common in some brown ales and porters."
+          },
+          "grassy": {
+            "descriptors": ["hay", "fresh-cut-grass", "straw"],
+            "notes": "Vegetation characteristics, often perceived as fresh, green, and slightly sweet. Can contribute to the beer's perceived freshness and drinkability."
+          },
+          "resinous": {
+            "descriptors": ["pine", "sawdust", "spruce", "cedar", "resin"],
+            "notes": "Wood and resin characteristics, which can add a sticky, piney, and slightly sweet flavour. Common in some IPAs and barrel-aged beers."
+          }
+        }
+      },
+      "cereal": {
+        "subcategories": {
+          "malty": {
+            "descriptors": ["biscuit", "sweet-malt", "toasted", "bread"],
+            "notes": "Processed malt flavors, which can range from sweet and biscuity to rich and toasty. Provides the backbone for the beer's flavour and aroma."
+          },
+          "grainy": {
+            "descriptors": ["corn-grits", "husk-like", "flour", "raw-grain"],
+            "notes": "Unprocessed grain characteristics, often perceived as raw, husky, and slightly sweet. Can contribute to the beer's body and mouthfeel."
+          },
+          "worty": {
+            "descriptors": ["sweet-wort", "fresh-wort-aroma"],
+            "notes": "Wort-specific characteristics, which can add a sweet, grainy, and slightly caramel-like flavour. Common in homebrewed and craft beers."
+          }
+        }
+      },
+      "caramelized_roasted": {
+        "subcategories": {
+          "caramelized": {
+            "descriptors": ["toffee", "caramel", "burnt-sugar", "molasses"],
+            "notes": "Heat-treated sugar compounds, which can add a rich, sweet, and slightly burnt flavour. Common in stouts, porters, and some Belgian ales."
+          },
+          "roasted": {
+            "descriptors": ["smoky", "coffee", "ashy", "chocolate", "burnt"],
+            "notes": "High-temperature roasted characteristics, which can add a bitter, roasted, and slightly astringent flavour. Common in dark beers and some IPAs."
+          }
+        }
+      },
+      "oxidized_stale": {
+        "subcategories": {
+          "leathery": {
+            "descriptors": ["hide-like", "leather"],
+            "notes": "Protein degradation, which can add a dry, tannic, and slightly bitter flavour. Common in aged beers and some Belgian styles."
+          },
+          "papery": {
+            "descriptors": ["wet-cardboard", "cardboard", "stale"],
+            "notes": "Oxidation products, which can add a stale, cardboard-like, and slightly sweet flavour. Common in poorly stored or aged beers."
+          },
+          "moldy": {
+            "descriptors": ["musty", "earthy", "cellar-like"],
+            "notes": "Microbial contamination, which can add a musty, earthy, and slightly sour flavour. Common in spontaneously fermented or barrel-aged beers."
+          }
+        }
+      },
+      "phenolic": {
+        "subcategories": {
+          "spicy": {
+            "descriptors": ["tar", "clove", "smoky", "vanilla", "phenolic"],
+            "notes": "Phenolic compounds from yeast or materials, which can add a spicy, smoky, and slightly medicinal flavour. Common in Belgian ales and some smoked beers."
+          },
+          "medicinal": {
+            "descriptors": ["hospital", "chlorophenol", "iodine"],
+            "notes": "Medicinal off-flavours, which can add a harsh, medicinal, and slightly phenolic flavour. Generally considered an off-flavour in most beer styles."
+          }
+        }
+      },
+      "sulfur": {
+        "subcategories": {
+          "vegetal": {
+            "descriptors": ["onion", "garlic", "cooked-corn", "DMS", "cabbage"],
+            "notes": "Sulfur compounds from processing, which can add a vegetal, garlic-like, and slightly sweet flavour. Common in lager styles and some Belgian ales."
+          },
+          "sulfidic": {
+            "descriptors": ["hydrogen-sulfide", "sewer", "rotten-eggs"],
+            "notes": "Reduced sulfur compounds, which can add a rotten egg, sewer-like, and slightly sweet flavour. Generally considered an off-flavour in most beer styles."
+          }
+        }
+      },
+      "fatty_acid": {
+        "subcategories": {
+          "cheesy": {
+            "descriptors": ["old-cheese", "isovaleric", "sweaty"],
+            "notes": "Protein and fat breakdown, which can add a cheesy, sweaty, and slightly rancid flavour. Generally considered an off-flavour in most beer styles."
+          },
+          "fatty": {
+            "descriptors": ["goaty", "soapy", "fatty-acid", "rancid"],
+            "notes": "Fatty acid degradation, which can add a soapy, rancid, and slightly goaty flavour. Common in some Belgian ales and barrel-aged beers."
+          }
+        }
+      },
+      "sour_acidic": {
+        "subcategories": {
+          "acetic": {
+            "descriptors": ["acetic-acid", "vinegar"],
+            "notes": "Acetic acid from bacterial infection, which can add a sharp, vinegary, and slightly sweet flavour. Common in sour ales and some barrel-aged beers."
+          },
+          "acidic": {
+            "descriptors": ["tart", "sharp", "pungent"],
+            "notes": "General acidity, which can add a sharp, tart, and slightly sour flavour. Common in sour ales and some fruit beers."
+          },
+          "lactic": {
+            "descriptors": ["lactic-acid", "sour-milk", "yogurt"],
+            "notes": "Lactic acid from bacterial activity, which can add a creamy, tart, and slightly sweet flavour. Common in Berliner Weisse, Gose, and some barrel-aged beers."
+          }
+        }
+      },
+      "sweet": {
+        "subcategories": {
+          "sweet": {
+            "descriptors": ["candy-like", "honey", "cloying", "syrupy"],
+            "notes": "Residual sugar perception, which can add a rich, sweet, and slightly syrupy flavour. Common in sweet stouts, porters, and some Belgian ales."
+          }
+        }
+      },
+      "salty": {
+        "subcategories": {
+          "salty": {
+            "descriptors": ["sea-salt", "mineral", "brackish"],
+            "notes": "Mineral salt perception, which can add a briny, mineral-like, and slightly sweet flavour. Common in Gose, some Belgian ales, and barrel-aged beers."
+          }
+        }
+      },
+      "bitter": {
+        "subcategories": {
+          "bitter": {
+            "descriptors": ["hop-bitter", "astringent", "alkaline", "harsh"],
+            "notes": "Bitter taste compounds, which can add a harsh, astringent, and slightly alkaline flavour. Common in IPAs, pale ales, and some Belgian styles."
+          }
+        }
+      },
+      "mouthfeel": {
+        "subcategories": {
+          "astringent": {
+            "descriptors": ["dry", "mouth-puckering", "tannin-like"],
+            "notes": "Tannin and protein interactions, which can create a drying, puckering sensation in the mouth. Common in red wines, some Belgian ales, and barrel-aged beers."
+          },
+          "carbonation": {
+            "descriptors": ["overcarbonated", "gassy", "undercarbonated", "flat"],
+            "notes": "CO2 levels and perception, which can range from flat and dull to sharp and biting. Affects the beer's perceived freshness and drinkability."
+          },
+          "warming": {
+            "descriptors": ["hot", "alcoholic-warmth"],
+            "notes": "Ethanol sensation, which can create a warming, almost burning sensation in the throat and chest. Common in high-alcohol beers and some Belgian styles."
+          },
+          "body": {
+            "descriptors": ["thick", "watery", "full", "viscous", "thin"],
+            "notes": "Perceived body and texture, which can range from light and watery to thick and chewy. Affects the beer's mouthfeel and overall impression."
+          }
+        }
+      }
+    }
+  }
+}
